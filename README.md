@@ -31,3 +31,6 @@
 | on waitForApp(appName, maxSeconds) |  等待窗口加载 |
 | on findAddButton(theElement,currentDepth) | 递归查找具有菜单功能的按钮 (适配不同系统版本) |
 | on selectDeviceFromMenu(btn) | 从菜单中识别并点击设备 |
+
+### 递归列出所有按钮信息
+在脚本编辑器运行：ButtonPrint.scpt
